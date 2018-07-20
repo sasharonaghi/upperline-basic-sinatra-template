@@ -1,0 +1,23 @@
+.card-block {
+    border-style:dotted;
+    text-align:center;
+}
+
+#summary {
+    width:75%;
+    margin-left:12.5%;
+    text-align: center;
+}
+
+#title {
+     text-align: center;
+     font-size: 75px;
+     font-family: Lucida Grande
+     
+
+}
+
+h1 {font-family: Palatino}
+
+body {background-image: url("https://static1.squarespace.com/static/555a1ff6e4b0d67c6c1e0548/t/5a18441ce4966b1342abbaff/1511539741143/476992326.jpg?format=2500w");
+font-family: Lucida Grande}

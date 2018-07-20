@@ -1,0 +1,17 @@
+h1 {font-family: Palatino}
+
+body {background-image: url("http://getwallpapers.com/wallpaper/full/a/1/0/541192.jpg");
+font-family: Lucida Grande;
+align-content: center}
+#box {width: 50%;
+margin-left:25%;
+text-align: center;
+background-color: #ffddcd;
+  border-style: double;
+    
+}
+
+#pic_sa_size {
+  width: 50%;
+text-align: center;  
+}
